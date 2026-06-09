@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iODAiIGhlaWdodD0iODAiIHZpZXdCb3g9IjAgMCA4MCA4MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iODAiIGhlaWdodD0iODAiIHJ4PSIxNiIgZmlsbD0iIzExMTEyNyIvPjx0ZXh0IHg9IjQwIiB5PSI1MiIgZm9udC1mYW1pbHk9Im1vbm9zcGFjZSIgZm9udC1zaXplPSI0MCIgZmlsbD0iIzg0QjRFNCIgdGV4dC1hbmNob3I9Im1pZGRsZSI+4pqhPC90ZXh0Pjwvc3ZnPg==" width="80" height="80" alt="VCEA logo" />
-</p>
-
 <h1 align="center">Vibe Context Engineer Agent</h1>
 
 <p align="center">
