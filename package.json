@@ -1,0 +1,65 @@
+{
+  "name": "vibe-context-engineer-agent",
+  "version": "0.1.0",
+  "description": "AI Memory Operating System for coding agents — structured project memory with minimal token consumption",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "vcea": "./dist/cli.js"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE",
+    "CHANGELOG.md"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vibe-context-engineer/vibe-context-engineer-agent"
+  },
+  "bugs": {
+    "url": "https://github.com/vibe-context-engineer/vibe-context-engineer-agent/issues"
+  },
+  "homepage": "https://github.com/vibe-context-engineer/vibe-context-engineer-agent#readme",
+  "keywords": [
+    "ai",
+    "coding-agent",
+    "context-engineering",
+    "memory-management",
+    "token-optimization",
+    "git-analysis",
+    "diff-summarizer",
+    "knowledge-graph",
+    "agent-context",
+    "claude-code",
+    "cursor",
+    "aider",
+    "archon",
+    "developer-tools",
+    "project-memory"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsx src/cli.ts",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "chokidar": "^4.0.3",
+    "commander": "^13.1.0",
+    "diff": "^7.0.0",
+    "simple-git": "^3.27.0"
+  },
+  "devDependencies": {
+    "@types/diff": "^7.0.2",
+    "@types/node": "^22.14.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.8.0"
+  }
+}

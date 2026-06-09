@@ -1,0 +1,326 @@
+{
+  "nodes": [
+    {
+      "id": "component:CLAUDE.md",
+      "type": "component",
+      "label": "CLAUDE.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:package-lock.json",
+      "type": "component",
+      "label": "package-lock.json",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:package.json",
+      "type": "component",
+      "label": "package.json",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:PROJECT-DETAIL.md",
+      "type": "component",
+      "label": "PROJECT-DETAIL.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:PROJECT-DEVELOPMENT-PHASE-TRACKING.md",
+      "type": "component",
+      "label": "PROJECT-DEVELOPMENT-PHASE-TRACKING.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:SECOND-KNOWLEDGE-BRAIN.md",
+      "type": "component",
+      "label": "SECOND-KNOWLEDGE-BRAIN.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/cli.ts",
+      "type": "component",
+      "label": "src/cli.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/pipeline.ts",
+      "type": "component",
+      "label": "src/core/pipeline.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/types.ts",
+      "type": "component",
+      "label": "src/core/types.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer1-observer",
+      "type": "component",
+      "label": "src/layers/layer1-observer",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer2-change-intelligence",
+      "type": "component",
+      "label": "src/layers/layer2-change-intelligence",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer3-memory-compression",
+      "type": "component",
+      "label": "src/layers/layer3-memory-compression",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer4-context-graph",
+      "type": "component",
+      "label": "src/layers/layer4-context-graph",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer5-dev-tracking",
+      "type": "component",
+      "label": "src/layers/layer5-dev-tracking",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer6-agent-context-builder",
+      "type": "component",
+      "label": "src/layers/layer6-agent-context-builder",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer7-knowledge-brain",
+      "type": "component",
+      "label": "src/layers/layer7-knowledge-brain",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:tsconfig.json",
+      "type": "component",
+      "label": "tsconfig.json",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/config-manager.ts",
+      "type": "component",
+      "label": "src/core/config-manager.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/governance.ts",
+      "type": "component",
+      "label": "src/core/governance.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/multi-repo-orchestrator.ts",
+      "type": "component",
+      "label": "src/core/multi-repo-orchestrator.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/plugin-system.ts",
+      "type": "component",
+      "label": "src/core/plugin-system.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/research-engine.ts",
+      "type": "component",
+      "label": "src/core/research-engine.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/core/team-memory.ts",
+      "type": "component",
+      "label": "src/core/team-memory.ts",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:src/layers/layer8-learning-engine",
+      "type": "component",
+      "label": "src/layers/layer8-learning-engine",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:06:57.490Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 3
+    },
+    {
+      "id": "component:CHANGELOG.md",
+      "type": "component",
+      "label": "CHANGELOG.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:21:13.003Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 1
+    },
+    {
+      "id": "component:CONTRIBUTING.md",
+      "type": "component",
+      "label": "CONTRIBUTING.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:21:13.003Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 1
+    },
+    {
+      "id": "component:LICENSE",
+      "type": "component",
+      "label": "LICENSE",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:21:13.003Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 1
+    },
+    {
+      "id": "component:README.md",
+      "type": "component",
+      "label": "README.md",
+      "metadata": {
+        "complexity": "high",
+        "lastChanged": "2026-06-09T03:21:13.000Z"
+      },
+      "createdAt": "2026-06-09T03:21:13.003Z",
+      "updatedAt": "2026-06-09T03:21:13.003Z",
+      "version": 1
+    }
+  ],
+  "relations": [],
+  "lastUpdated": "2026-06-09T03:21:13.004Z",
+  "version": 2
+}

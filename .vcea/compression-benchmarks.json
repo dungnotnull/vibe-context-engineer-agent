@@ -1,0 +1,28 @@
+[
+  {
+    "id": "3e67b812-61b8-4563-9758-44ac5c6e02f0",
+    "strategy": "hierarchical-semantic-multilayer",
+    "inputSize": 50,
+    "outputSize": 17,
+    "reductionRatio": 0.6599999999999999,
+    "qualityScore": 0.5635392152618918,
+    "latencyMs": 0,
+    "settings": {
+      "strategy": "hierarchical-semantic-multilayer"
+    },
+    "timestamp": "2026-06-09T03:06:57.497Z"
+  },
+  {
+    "id": "585e5659-ae85-48b3-a074-d7ae6c182b57",
+    "strategy": "hierarchical-semantic-multilayer",
+    "inputSize": 50,
+    "outputSize": 17,
+    "reductionRatio": 0.6599999999999999,
+    "qualityScore": 0.5635392153776325,
+    "latencyMs": 0,
+    "settings": {
+      "strategy": "hierarchical-semantic-multilayer"
+    },
+    "timestamp": "2026-06-09T03:21:13.009Z"
+  }
+]

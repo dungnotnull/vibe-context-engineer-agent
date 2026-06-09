@@ -1,0 +1,35 @@
+import { ContextGraphEngine } from '../layers/layer4-context-graph/context-graph.js';
+import { AgentContextBuilder } from '../layers/layer6-agent-context-builder/agent-context-builder.js';
+import { KnowledgeBrain } from '../layers/layer7-knowledge-brain/knowledge-brain.js';
+import { ResearchEngine } from './research-engine.js';
+import { QualityEvaluator } from '../layers/layer8-learning-engine/quality-evaluator.js';
+import { CompressionBenchmarker } from '../layers/layer8-learning-engine/compression-benchmarker.js';
+import type { VceaConfig, PipelineResult, ContextGraph } from './types.js';
+export declare class Pipeline {
+    private config;
+    private observer;
+    private intelligence;
+    private compression;
+    private graph;
+    private tracking;
+    private contextBuilder;
+    knowledge: KnowledgeBrain;
+    private research;
+    private evaluator;
+    private benchmarker;
+    constructor(config: VceaConfig);
+    run(): Promise<PipelineResult>;
+    watch(onUpdate: (result: PipelineResult) => void): Promise<void>;
+    stopWatch(): void;
+    getGraph(): ContextGraph;
+    getKnowledgeBrain(): KnowledgeBrain;
+    getResearchEngine(): ResearchEngine;
+    getBenchmarker(): CompressionBenchmarker;
+    getEvaluator(): QualityEvaluator;
+    getContextBuilder(): AgentContextBuilder;
+    queryGraph(query: Parameters<ContextGraphEngine['query']>[0]): ReturnType<ContextGraphEngine['query']>;
+    analyzeImpact(nodeId: string): ReturnType<ContextGraphEngine['analyzeImpact']>;
+    findCircularDeps(): ReturnType<ContextGraphEngine['findCircularDeps']>;
+    getCentrality(): ReturnType<ContextGraphEngine['getCentrality']>;
+    advanceSprint(): void;
+}
